@@ -1,0 +1,12 @@
+**/target/
+.settings/
+.classpath
+.mymetadata
+.project
+.gitconfig
+.idea/
+*.iml
+**/classes/
+output
+test
+Thumbs.db
